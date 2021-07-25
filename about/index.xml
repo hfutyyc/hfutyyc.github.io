@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yyc&#39;s blog</title>
-    <link>https://hfutyyc.github.io/</link>
-    <description>Recent content on yyc&#39;s blog</description>
+    <title>Abouts on yyc&#39;s blog</title>
+    <link>https://hfutyyc.github.io/about/</link>
+    <description>Recent content in Abouts on yyc&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 25 Jul 2021 19:49:26 +0800</lastBuildDate><atom:link href="https://hfutyyc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 19:49:26 +0800</lastBuildDate><atom:link href="https://hfutyyc.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://hfutyyc.github.io/about/about/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://hfutyyc.github.io/about/about/</guid>
       <description>yyc的个人博客，建设中</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://hfutyyc.github.io/post/first/</link>
-      <pubDate>Sun, 25 Jul 2021 18:47:21 +0800</pubDate>
-      
-      <guid>https://hfutyyc.github.io/post/first/</guid>
-      <description>first article</description>
     </item>
     
   </channel>

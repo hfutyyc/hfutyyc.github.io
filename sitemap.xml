@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hfutyyc.github.io/post/first/</loc>
-    <lastmod>2021-07-25T18:47:21+08:00</lastmod>
+    <loc>https://hfutyyc.github.io/about/about/</loc>
+    <lastmod>2021-07-25T19:49:26+08:00</lastmod>
+  </url><url>
+    <loc>https://hfutyyc.github.io/about/</loc>
+    <lastmod>2021-07-25T19:49:26+08:00</lastmod>
   </url><url>
     <loc>https://hfutyyc.github.io/</loc>
+    <lastmod>2021-07-25T19:49:26+08:00</lastmod>
+  </url><url>
+    <loc>https://hfutyyc.github.io/post/first/</loc>
     <lastmod>2021-07-25T18:47:21+08:00</lastmod>
   </url><url>
     <loc>https://hfutyyc.github.io/post/</loc>
